@@ -17,6 +17,15 @@ El programa se divide en dos partes
 
 ## Estructura de clases
 
+El programa se basa sigue el paradigma de **Programación orientada a objetos (POO)** y se basa en la siguiente estructura:
+
+*** Diagrama de Clases UML
+
+```` PlantUML
+
+
+````
+
 ## Programa principal
 
 ## Pruebas
